@@ -1,0 +1,3 @@
+model_checkpoint_path: "practice8_model_final.ckpt"
+all_model_checkpoint_paths: "practice8_best_model.ckpt"
+all_model_checkpoint_paths: "practice8_model_final.ckpt"
